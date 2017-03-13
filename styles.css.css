@@ -1,0 +1,25 @@
+h1
+{color:red;
+font-family:courier;
+text-align:center;
+} 
+
+h2
+{
+	color:blue;
+	font-family:forte;
+	} 
+body{
+font-size:18pt;
+font-family:arial;
+} 
+
+div.move{
+	indent:50pt;
+	font-size:16pt;
+	} 
+ol{
+	color:orange;
+	font-family:courier;
+	font-size:10pt;
+}
